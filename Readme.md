@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm sathwik bodakuntla</h1>
-<h3 align="center">DevOps and cloud engineer</h3>
+<h3 align="center">Full stack web developer</h3>
 
-- 🌱 I’m currently learning **Kubernetes and terraform**
+- 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **DevOps,Cloud projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
-- 🤝 I’m looking for help with **DevOps,Cloud,Open Source**
-
-- 💬 Ask me about **DevOps and Cloud**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **sathwikbodakuntla041@gmail.com**
 
