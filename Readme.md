@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathwik Bodakuntla</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwik-git&label=Profile%20views&color=0e75b6&style=flat" alt="yh010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwik-git&label=Profile%20views&color=0e75b6&style=flat" alt="sathwik-git" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -67,8 +67,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-git&show_icons=true&locale=en&layout=compact" alt="yh010" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-git&show_icons=true&locale=en&layout=compact" alt="sathwik-git" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathwik-git&show_icons=true&locale=en" alt="sathwik-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik-git&" alt="yh010" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik-git&" alt="sathwik-git" /></p>
 
