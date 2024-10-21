@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **Development**
-
 - 📫 How to reach me **sathwikbodakuntla041@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
