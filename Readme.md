@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Next.js**
 
+- 💬 Ask me about **MERN**
+
 - 📫 How to reach me **sathwikbodakuntla041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
