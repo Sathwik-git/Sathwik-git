@@ -63,3 +63,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-git&show_icons=true&locale=en&layout=compact)
+
