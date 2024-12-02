@@ -70,5 +70,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-git&show_icons=true&locale=en&layout=compact" alt="sathwik-git" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathwik-git&show_icons=true&locale=en" alt="sathwik-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik-git" alt="sathwik-git" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwik-git" alt="sathwik-git" />
 
